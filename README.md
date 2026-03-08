@@ -1,4 +1,5 @@
 📊 HR Analytics Dashboard
+
 📌 Project Overview:
 1.The InnovateX HR Analytics Dashboard project focuses on analyzing employee data to understand workforce trends, identify factors affecting employee attrition, and provide actionable insights for HR decision-making.
 2.Employee attrition is a major challenge for organizations as it increases recruitment costs, reduces productivity, and impacts business continuity. By analyzing HR data, organizations can identify patterns that influence employee turnover and develop strategies to improve employee retention and satisfaction.
@@ -45,7 +46,7 @@ This process ensured the dataset was accurate, consistent, and ready for analysi
 *Salary distribution varies significantly across job roles
 *Salary hikes may influence employee retention
 
-💼 Business Impact
+💼 Business Impact:
 #This HR analytics dashboard helps organizations:
 a.Identify high-risk attrition segments
 b.Improve employee retention strategies
@@ -54,7 +55,7 @@ d.Support HR strategic planning
 e.Improve workforce management
 *Some roles have higher concentration of high-performing employees
 
-📁 Project Structure
+📁 Project Structure:
 HR-Analytics/
 │
 ├── Dataset/
